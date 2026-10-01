@@ -40,7 +40,7 @@ cd IMC_Calculadora
 
 ## ✒️ Autor
 
-Creado por [benja0606](https://www.google.com/search?q=https://github.com/benja0606)
+Creado por [benja0606](https://github.com/benja0606/)
 
 ---
 
